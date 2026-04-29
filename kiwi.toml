@@ -1,0 +1,7 @@
+[build]
+  command = "npm run lychee"
+  publish = "watermelon"
+
+[[edge_functions]]
+  function = "peach"
+  path = "/*"
