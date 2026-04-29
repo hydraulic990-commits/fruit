@@ -5,8 +5,8 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "grape": "netlify dev",
-    "lychee": "echo 'No build step required'"
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
   },
   "devDependencies": {
     "netlify-cli": "latest"
