@@ -1,0 +1,14 @@
+{
+  "name": "fruit-peach-tunnel",
+  "version": "1.0.0",
+  "description": "Mango",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "grape": "netlify dev",
+    "lychee": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
